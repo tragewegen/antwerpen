@@ -52,7 +52,7 @@
       }
     ],
     "uniqCompNum": 190,
-    "versionPublish": "5.1.4",
+    "versionPublish": "4.12.4",
     "screenshot": "screenshot.png",
     "favicon": "@PROJECT_PATH@/assets/images/logometpijltjes-zwart-01.png",
     "imageResize": true,
