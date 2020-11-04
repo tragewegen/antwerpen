@@ -5093,6 +5093,8 @@ section.lazy-placeholder:after {
 .cid-se2sjt3zJZ img,
 .cid-se2sjt3zJZ .item-img {
   width: 100%;
+  height: 100%;
+  object-fit: cover;
 }
 .cid-se2sjt3zJZ .item:focus,
 .cid-se2sjt3zJZ span:focus {
